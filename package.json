@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "serve": "concurrently \"postcss tailwind.css -o dist/tailwind.css --watch\"  \"live-server .\""
+  },
+  "dependencies": {
+    "autoprefixer": "^9.5.1",
+    "tailwindcss": "^1.0.0-beta.8"
+  },
+  "devDependencies": {
+    "concurrently": "^4.1.0",
+    "live-server": "^1.2.1",
+    "postcss-cli": "^6.1.2"
+  }
+}
