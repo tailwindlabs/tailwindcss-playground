@@ -8,6 +8,8 @@ To get started:
 
     ```bash
     git clone git@github.com:tailwindcss/playground tailwindcss-playground
+
+    cd tailwindcss-playground
     ```
 
 2. Install the dependencies:
