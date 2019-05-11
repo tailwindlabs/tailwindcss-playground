@@ -1,13 +1,17 @@
 {
   "scripts": {
-    "serve": "concurrently \"postcss tailwind.css -o dist/tailwind.css --watch\"  \"live-server .\""
+    "serve": "NODE_ENV=development concurrently \"postcss tailwind.css -o dist/tailwind.css --watch\"  \"live-server .\"",
+    "development": "NODE_ENV=development postcss tailwind.css -o dist/tailwind.css",
+    "production": "NODE_ENV=production postcss tailwind.css -o dist/tailwind.css"
   },
   "dependencies": {
     "autoprefixer": "^9.5.1",
     "tailwindcss": "^1.0.0-beta.8"
   },
   "devDependencies": {
+    "@fullhuman/postcss-purgecss": "^1.2.0",
     "concurrently": "^4.1.0",
+    "cssnano": "^4.1.10",
     "live-server": "^1.2.1",
     "postcss-cli": "^6.1.2"
   }
