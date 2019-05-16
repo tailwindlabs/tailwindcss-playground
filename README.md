@@ -34,7 +34,7 @@ To get started:
 
     Now you should be able to see the project running at localhost:8080.
 
-4. Open `index.html` in your editor and start experimenting!
+4. Open `public/index.html` in your editor and start experimenting!
 
 ## Building for production
 
@@ -50,4 +50,4 @@ npm run production
 yarn run production
 ```
 
-After that's done, check out `./dist/tailwind.css` to see the optimized output.
+After that's done, check out `./public/build/tailwind.css` to see the optimized output.
