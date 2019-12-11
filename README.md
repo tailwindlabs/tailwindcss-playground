@@ -2,6 +2,8 @@
 
 A simple starter project for playing around with Tailwind in a proper PostCSS environment.
 
+[![Run on Repl.it](https://repl.it/badge/github/tailwindcss/playground)](https://repl.it/github/tailwindcss/playground)
+
 To get started:
 
 1. Clone the repository:
