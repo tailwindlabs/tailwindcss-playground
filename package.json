@@ -16,6 +16,8 @@
     "cross-env": "^5.2.0",
     "cssnano": "^4.1.10",
     "live-server": "^1.2.1",
-    "postcss-cli": "^6.1.2"
+    "postcss-cli": "^6.1.2",
+    "tailwindcss-blend-mode": "^1.0.0",
+    "tailwindcss-debug-screens": "^0.1.0"
   }
 }
