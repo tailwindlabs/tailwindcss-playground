@@ -29,7 +29,7 @@ To get started:
     npm run serve
 
     # Using Yarn
-    yarn run serve
+    yarn serve
     ```
 
     Now you should be able to see the project running at localhost:8080.
