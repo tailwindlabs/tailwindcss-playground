@@ -28,9 +28,9 @@ To get started:
    # Using npm
    npm run serve
 
-    # Using Yarn
-    yarn serve
-    ```
+   # Using Yarn
+   yarn serve
+   ```
 
    Now you should be able to see the project running at localhost:8080.
 
