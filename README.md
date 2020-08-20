@@ -29,7 +29,7 @@ To get started:
    npm run serve
 
    # Using Yarn
-   yarn run serve
+   yarn serve
    ```
 
    Now you should be able to see the project running at localhost:8080.
@@ -47,7 +47,7 @@ To build an optimized version of your CSS, simply run:
 npm run production
 
 # Using Yarn
-yarn run production
+yarn production
 ```
 
 After that's done, check out `./public/build/tailwind.css` to see the optimized output.
