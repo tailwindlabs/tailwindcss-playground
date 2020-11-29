@@ -1,6 +1,6 @@
 # Tailwind CSS Playground
 
-A simple starter project for playing around with Tailwind in a proper PostCSS environment.
+A simple starter project for playing around with Tailwind v2 in a proper PostCSS environment.
 
 To get started:
 
@@ -36,9 +36,9 @@ To get started:
 
 4. Open `public/index.html` in your editor and start experimenting!
 
-## Play with it on CodeSandbox
+## Play with it on Tailwind Play
 
-A CodeSandbox version of this playground [is one click away](https://codesandbox.io/s/github/tailwindcss/playground/tree/master)!
+A sandbox version of this playground [is one click away](https://play.tailwindcss.com/)!
 
 ## Building for production
 
